@@ -7,7 +7,7 @@
           {
             "id": null,
             "name": {
-              "value": "Hard Boiled",
+              "value": "hard boiled",
               "synonyms": [
                 "hard boiled egg",
                 "hard boil",
@@ -27,7 +27,9 @@
                 "soft boil",
                 "soft boiled eggs",
                 "soft-boiled eggs",
-                "soft-boiled egg"
+                "soft-boiled egg",
+                "soft-boil",
+                "soft-boiled"
               ]
             }
           },
@@ -123,7 +125,14 @@
       },
       {
         "name": "AMAZON.NoIntent",
-        "samples": []
+        "samples": [
+          "none",
+          "no other eggs",
+          "no other",
+          "no egg",
+          "nothing else",
+          "all set"
+        ]
       },
       {
         "name": "AMAZON.StopIntent",
@@ -156,6 +165,6 @@
         ]
       }
     ],
-    "invocationName": "eggcellent"
+    "invocationName": "egg cellent"
   }
 }
