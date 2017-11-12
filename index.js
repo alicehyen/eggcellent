@@ -5,7 +5,7 @@ var languageStrings = {
     'en': {
         'translation': {
             'WELCOME' : "<s>Hi there!</s><s> Welcome to our <say-as interpret-as='interjection'>Egg</say-as> Cellent guide to eggs!</s>",
-            'HELP'    : "Say <say-as interpret-as='interjection'>About</say-as>, to hear more about the eggs we help you make!",
+            'HELP'    : "<s>Say <say-as interpret-as='interjection'>About</say-as>, to hear more about the eggs we help you make! </s><s>Or go ahead and tell us what kind of egg you want!</s>",
             'ABOUT'   : "<s>Egg Cellent helps guide you through your egg-making, including hard-boiled, <prosody pitch='low'>soft-boiled</prosody>, sunny side up, <prosody pitch='x-low'>poached</prosody>, over easy, <prosody pitch='low'>over medium</prosody>, over hard fried, and <prosody pitch='low'>scrambled eggs</prosody>. </s><s>We are <say-as interpret-as='interjection'>hard</say-as> to <say-as interpret-as='interjection'>beat</say-as>.</s><s>Now tell me, what kind of eggs would you like to make?</s>",
             'STOP'    : "<s> Ok, time to eggs it.</s><s> See you next <say-as interpret-as='interjection'> fry </say-as> day.</s><s> and have an <say-as interpret-as='interjection'>egg</say-as> straordinary day!</s>"
         }
